@@ -979,6 +979,7 @@ left: 0;
   height: 100%;
   margin: 0 auto;
 }
+
 .overlay{
   display:block;
   z-index:10;
